@@ -15,6 +15,11 @@ The third commit is to update the README.md document.
 
 Fourth commit is to update folder
 
+Fifth commit update README
+https://carlos-rojas-ca.github.io/BootCamp/2-Responsive-Portfolio/
+
+![alt text](2-Responsive-Portfolio/assets/images/Aboutme.png?raw=true "image")
+
 END of HW2
 
 ----------------------------------------------------------------------------
