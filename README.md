@@ -12,3 +12,9 @@ The first commit was to transfer the work onto my desktop. I was still having is
 The second commit was to finish my assignment. I edited the about me section and finished fixing the portfolio issues. I also deleted a lot of unused css lines and removed some of the call outs in the htmls.
 
 The third commit is to update the README.md document.
+
+Fourth commit is to update folder
+
+END of HW2
+
+----------------------------------------------------------------------------
